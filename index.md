@@ -8,9 +8,9 @@ I also have a terrible sense of humor. Don't ask me for a gag or you'll have to 
 
 ## Studies
 
-- MS in Computer Science and Engineering at Politecnico di Milano
+- MS in Computer Science and Engineering at Politecnico di Milano with a thesis on ["Regret Minimization Algorithms for the Follower’s Behavior Identification in Leadership Games"](l0llo.github.io/thesis.pdf)
 
-- BS in Ingegneria Informatica Elettronica e delle Telecomunicazioni at Università di Parma
+- BS in Ingegneria Informatica Elettronica e delle Telecomunicazioni at Università di Parma with a thesis on ["Design and Development of a IoT based Smart-Camera for efficient surveillance systems](l0llo.github.io/Tesi_Triennale.pdf)
 
 (complete resume [here](l0llo.github.io/cv.pdf))
 
