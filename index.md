@@ -22,7 +22,6 @@ brief description of my [repositories](https://github.com/l0llo?tab=repositories
 ## Gists
 
 
-
 - [Classifing Cifar10 images with a Deep CNN](https://gist.github.com/l0llo/8bf60b9cc7487133851f5d920115d21a): a notebook in which I use Tensorflow API to classify [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) images with a Convolutional Neural Network.
 
 - [Il carcere sovrafollato](https://gist.github.com/l0llo/c0fbe7b5bd8834387d73241568d9ec43): a notebook which solves in Python a well-known riddle (sooner or later I will also translate the riddle itself!)
