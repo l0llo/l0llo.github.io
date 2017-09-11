@@ -1,6 +1,6 @@
 > *"A volte per cogliere l'attimo bisogna aspettare un attimo"*
  
-## "...l0llo who?" *(Me in a nutshell)*
+## "...l0llo who?"
 I'm Lorenzo Bisi, a Computer Scientist and Engineer from [Politecnico di Milano](https://www.polimi.it/home/).
 I'm passionate about Machine Learning, NLP, Multiagent Systems, Network Science and AI in all its forms.
 I like practising [Aikido](https://en.wikipedia.org/wiki/Aikido), hiking and playing guitar.
