@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: l0llo's page
 description: studies, projects and more
 url: "https://l0llo.github.io" 
-background-image: url('img.jpg')
+background-image: url('/img.jpg')
