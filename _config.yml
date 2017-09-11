@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: l0llo's page
 description: studies, projects and more
+background-image: url('img.jpg')
