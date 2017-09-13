@@ -17,7 +17,7 @@ I also have a terrible sense of humor. Don't ask me for a gag or you'll have to 
 ## Projects
 brief description of my [repositories](https://github.com/l0llo?tab=repositories):
 
-- [onlineSG](https://github.com/l0llo/onlineSG): my thesis code, which you can use to reproduce the experiments that you find in my [thesis work](l0llo.github.io/thesis.pdf).
+- [onlineSG](https://github.com/l0llo/onlineSG): my thesis code, with a sketch of [documentation](https://github.com/l0llo/onlineSG/blob/master/docs/_build/html/index.html) which you can use to reproduce the experiments that you find in my [thesis work](l0llo.github.io/thesis.pdf).
 
 ## Gists
 
