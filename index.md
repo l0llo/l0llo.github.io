@@ -13,8 +13,8 @@ I like practising [Aikido](https://en.wikipedia.org/wiki/Aikido), hiking and pla
   + Reinforcement Learning for optimizing Hedging Strategies. 
   these projects are also the subject of my PhD at Politecnico di Milano. 
 
-- Computer Scientist at Argotec (2017 - 2018)
-Research and Development of AI applications for small satellites. These kind of spacecrafts
+- Computer Scientist at Argotec (2017 - 2018): 
+I have worked for the Research and Development of AI applications for small satellites. These kind of spacecrafts
 are rapidly spreading because they are easier to be launched, have a lower cost and can be
 reconfigured. However they still lack autonomy and strongly depend on Ground for many of
 their activities. AI could enable a greater autonomy in small satellites, but constraints on
