@@ -1,4 +1,4 @@
-> *"A volte per cogliere l'attimo bisogna aspettare un attimo"*
+> *"Sometimes to catch the moment you have to wait a moment"*
  
 ## "...l0llo who?"
 I'm Lorenzo Bisi, a PhD student at [Politecnico di Milano](https://www.polimi.it/home/) and Researcher at [Fondazione ISI](https://www.isi.it/en/home).
@@ -8,8 +8,10 @@ I like practising [Aikido](https://en.wikipedia.org/wiki/Aikido), hiking and pla
 
 ## Work Experience
 - Researcher at Fondazione ISI (2018 - Present):
-  Research on Machine Learning in Finance. Supervised Learning for Parameters Calibration
-  in pricing models and Reinforcement Learning for optimizing Hedging Strategies.
+  I'm working on two main problems at the moment: 
+  + Supervised Learning for Parameters Calibration in pricing models
+  + Reinforcement Learning for optimizing Hedging Strategies. 
+  these projects are also the subject of my PhD at Politecnico di Milano. 
 
 - Computer Scientist at Argotec (2017 - 2018)
 Research and Development of AI applications for small satellites. These kind of spacecrafts
